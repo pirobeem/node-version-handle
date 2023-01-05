@@ -1,0 +1,19 @@
+{
+  "name": "version-handle",
+  "version": "1.2.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirobeem/node-version-handle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirobeem/node-version-handle/issues"
+  },
+  "homepage": "https://github.com/pirobeem/node-version-handle#readme"
+}
