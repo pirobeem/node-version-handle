@@ -5,6 +5,13 @@ bash node-version.sh
 # 1.2.3
 ```
 
+# you can get version of package.json by shell without nodejs
+
+```bash
+bash node-version-regex.sh
+# 1.2.3
+```
+
 # you can get version of package.json by js
 
 ```bash
